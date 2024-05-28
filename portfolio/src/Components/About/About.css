@@ -59,8 +59,8 @@
     width: 50%;
     height: 8px;
     border-radius: 50px;
-    background: linear-gradient(264deg, #df8908 -5.09, #b415ff 106.28%);
-}
+    background: linear-gradient(270deg, #df8908 50.41%, #b415ff 100%);
+ }
 
 .about-achievements{
     display: flex;
