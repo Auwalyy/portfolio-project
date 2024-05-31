@@ -3,6 +3,7 @@
   padding: 0;
 }
 body{
+  max-width: 1200px;
   height: 100vh;
   background: #161513;
   color: white;
